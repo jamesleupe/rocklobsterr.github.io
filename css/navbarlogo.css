@@ -1,0 +1,15 @@
+.navbar-me {
+  font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
+  font-weight: 200;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 1px;
+  height:50px;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+  .navbar-me:hover,
+  .navbar-me:focus {
+    color: #FFFFFF;
+	text-decoration: none;
+  }
